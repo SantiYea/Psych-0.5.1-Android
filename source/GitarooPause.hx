@@ -96,3 +96,5 @@ class GitarooPause extends MusicBeatState
 		}
 	}
 }
+
+//what the fuck 
